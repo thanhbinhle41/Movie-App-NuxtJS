@@ -1,6 +1,10 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
+    mode: 'static',
+    router: {
+        base: '/thanhbinhle41/Movie-App-NuxtJS/'
+    },
     title: 'movieapp',
     htmlAttrs: {
       lang: 'en',
