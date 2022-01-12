@@ -1,6 +1,7 @@
 {
   "name": "movieapp",
   "version": "1.0.0",
+  "homepage": "https://github.com/thanhbinhle41/Movie-App-NuxtJS",
   "private": true,
   "scripts": {
     "dev": "nuxt",
